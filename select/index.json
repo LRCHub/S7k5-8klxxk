@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Never Be Us",
+  "base_artist": "HRVY",
+  "createdAt": "2025-12-23T22:28:02.342499Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Be Us",
+      "artist": "HRVY",
+      "has_synced": false,
+      "path": "select/01_Never_Be_Us_HRVY.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Be Us",
+      "artist": "Garrett Kato",
+      "has_synced": true,
+      "path": "select/02_Never_Be_Us_Garrett_Kato.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Be Us",
+      "artist": "HRVY",
+      "has_synced": true,
+      "path": "select/03_Never_Be_Us_HRVY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Be Us",
+      "artist": "HRVY",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Be_Us_HRVY.txt"
+    }
+  ]
+}
